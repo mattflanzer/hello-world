@@ -1,3 +1,3 @@
-# hellow-world
+# hello-world
 Just another repository :P
 This is my edit
